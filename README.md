@@ -40,7 +40,7 @@ This project uses a **rotating ultrasonic sensor** mounted on a servo motor to s
 | ESP32            | 1        | Transmits sensor data           |
 | ESP32          | 1        | Receives data        |
 | HC-SR04 Sensor   | 1        | Measures distance               |
-| Servo Motor (SG90)| 1       | Rotates the ultrasonic sensor   |
+| Servo Motor (SG90)| 2      | Rotates the ultrasonic sensor   |
 | Breadboard       | 1        | Prototyping                     |
 | Jumper Wires     | n/a      | For connections                 |
 
